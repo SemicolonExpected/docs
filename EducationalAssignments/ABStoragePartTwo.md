@@ -170,7 +170,7 @@ And more!  Remember a good security layer can't be broken by anyone!  Which is a
 
  * In repy 'log' replaces 'print' from python.  Many students find this to be a stumbling block.
 
- * Note that you should not assume that any files exist in your directory.  You should create any files (e.g., testfile.txt) yourself in your test program.
+ * Note that you should not assume that any files exist in your directory.  You should create any files (e.g., testfile.txt) yourself in your test program. Similarly do not assume the converse, that files do not exist in your directory as well. 
 
 ## How to run your tests on many reference monitors
 ----
